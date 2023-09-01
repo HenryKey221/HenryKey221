@@ -6,7 +6,7 @@
  💬 Ask me about any tech-related web development.\
  📫 How to reach me: Email - HenryKey@gmail.com\
  📫 How to reach me: skype:  https://join.skype.com/invite/sfMRsz4GiBrN
- 📫 How to reach me: discord display name-> Piter Pan
+ 📫 How to reach me: discord display name-> Sherlock Holmes
  😄 Pronouns: He/His\
 
 # 💻 Tech Stack:
