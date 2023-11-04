@@ -1,5 +1,5 @@
 
-# Hello, I'm Henrik Lanie! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, I'm Henry Keong! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
