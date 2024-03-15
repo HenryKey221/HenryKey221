@@ -1,5 +1,5 @@
 
-# Hello,  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
  💬 Ask me about any tech-related blockchain and web development.\
