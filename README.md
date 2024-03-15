@@ -1,5 +1,5 @@
 
-# Hello, I'm Wiley Haley! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello,  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
