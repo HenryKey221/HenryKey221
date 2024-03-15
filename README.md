@@ -2,8 +2,7 @@
 # Hello,  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
-🔭 I’m reputable Freelancer.\
- 💬 Ask me about any tech-related web development.\
+ 💬 Ask me about any tech-related blockchain and web development.\
  📫 How to reach me: Email - HenryKey221@gmail.com\
  📫 How to reach me: skype:  https://join.skype.com/invite/sfMRsz4GiBrN
 
